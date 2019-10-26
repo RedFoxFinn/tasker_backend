@@ -30,4 +30,4 @@ I created it to learn new things and represent my skills in front- and back-end 
 ### timesheet:
 date | work hours | features worked on
 ---- | ---------- | ------------------
-2019.10.26 | 5 | backend: server main file, mongoose models, graphql schema
+'19.10.26/27 | 6 | backend: server main file, mongoose models, graphql schema & resolvers
