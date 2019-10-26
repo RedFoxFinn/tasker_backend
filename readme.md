@@ -19,5 +19,14 @@ I created it to learn new things and represent my skills in front- and back-end 
 - Simple calculator (two values, answers for most common calculations)
 - Implementation of country information viewer
 
+### pieces:
+[backend](https://github.com/RedFoxFinn/rff-project/tree/backend)
+[frontend](nope, not yet)
+
+### app in heroku:
+[app (not yet!)](nope, not yet)
+
 ### timesheet:
-[date]      [hours]     [features worked on]
+date | work hours | features worked on
+---- | ---------- | ------------------
+2019.10.26 | 5 | backend: server main file, mongoose models, graphql schema
