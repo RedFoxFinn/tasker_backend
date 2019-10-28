@@ -33,3 +33,5 @@ date | work hours | features worked on
 '19.10.26/27 | 6 | backend: server main file, mongoose models, graphql schema & resolvers
 '19.10.27 | 5 | backend: graphql schema & resolvers
 '19.10.28 | 4 | backend: graphql schema & resolvers
+ | | 
+total | 15 | 
