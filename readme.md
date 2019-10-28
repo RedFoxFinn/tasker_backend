@@ -32,6 +32,6 @@ date | work hours | features worked on
 :--- | :--------: | -----------------:
 '19.10.26/27 | 6 | backend: server main file, mongoose models, graphql schema & resolvers
 '19.10.27 | 5 | backend: graphql schema & resolvers
-'19.10.28 | 8 | backend: graphql schema & resolvers, server-file, config, routing
+'19.10.28 | 12.5 | backend: graphql schema & resolvers, server-file, config, routing
  | | 
-total | 19 | 
+total | 23.5 | 
