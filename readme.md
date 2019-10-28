@@ -34,4 +34,4 @@ date | work hours | features worked on
 '19.10.27 | 5 | backend: graphql schema & resolvers
 '19.10.28 | 8 | backend: graphql schema & resolvers, server-file, config, routing
  | | 
-total | 15 | 
+total | 19 | 
