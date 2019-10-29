@@ -33,5 +33,6 @@ date | work hours | features worked on
 '19.10.26/27 | 6 | backend: server main file, mongoose models, graphql schema & resolvers
 '19.10.27 | 5 | backend: graphql schema & resolvers
 '19.10.28 | 13 | backend: graphql schema & resolvers, server-file, config, routing, backend.md
+'19.10.29 | 6 | backend -> tests; adding jest & supertest & eslint
  | | 
-total | 24 | 
+total | 30 | 
