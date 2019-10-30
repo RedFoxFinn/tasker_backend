@@ -10,12 +10,15 @@ I created it to learn new things and represent my skills in front- and back-end 
 - React/Redux frontend with Apollo Client
 - MongoDB-Apollo Cloud remote database
 
-### done:
+### breakdown:
+
+##### backend phase: `testing`
+##### frontend phase: `upcoming`
 
 ### planned:
-- Login
-- Usergroups
-- Tasklists (and tasks), private & group
+- Login `backend:done`
+- Usergroups `backend:done`
+- Tasklists (and tasks), private & group `backend:done`
 - Simple calculator (two values, answers for most common calculations)
 - Implementation of country information viewer
 
@@ -34,5 +37,6 @@ date | work hours | features worked on
 '19.10.27 | 5 | backend: graphql schema & resolvers
 '19.10.28 | 13 | backend: graphql schema & resolvers, server-file, config, routing, backend.md
 '19.10.29 | 7 | backend -> tests init
+'19.10.30 | 3.5 | backend: continued tests init
  | | 
-total | 31 | 
+total | 34.5 | 
