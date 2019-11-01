@@ -38,5 +38,6 @@ date | work hours | features worked on
 '19.10.28 | 13 | backend: graphql schema & resolvers, server-file, config, routing, backend.md
 '19.10.29 | 7 | backend -> tests init
 '19.10.30 | 3.5 | backend: continued tests init
+'19.10.31 | 7 | backend: continued tests init
  | | 
-total | 34.5 | 
+total | 41.5 | 
