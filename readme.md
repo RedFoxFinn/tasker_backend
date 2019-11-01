@@ -39,5 +39,6 @@ date | work hours | features worked on
 '19.10.29 | 7 | backend -> tests init
 '19.10.30 | 3.5 | backend: continued tests init
 '19.10.31 | 7 | backend: continued tests init
+'19.11.01 | 9 | backend-tests: `api` (testing), `utils` (init tests), `server` (init tests)
  | | 
-total | 41.5 | 
+total | 50.5 | 
