@@ -41,6 +41,6 @@ date | work hours | features worked on
 '19.10.31 | 7 | backend: continued tests init
 '19.11.01 | 9 | backend-tests: `api` (testing), `utils` (init tests), `server` (init tests)
 '19.11.07 | 9.5 | backend-tests: `api` (testing)
-'19.11.08 | 3 | backend-tests: `api` (testing)
+'19.11.08 | 8 | backend-tests: `api` (testing)
  | | 
 total | 63 | 
