@@ -45,5 +45,6 @@ date | work hours | features worked on
 '19.11.07 | 9.5 | backend-tests: `api` (testing)
 '19.11.08 | 8 | backend-tests: `api` (testing)
 '19.11.11 | 8 | backend-tests: `api` (dish:testing)
+'19.11.13 | 8 | backend-test: `api` (testing)
  | | 
-total | 76 | 
+total | 84 | 
