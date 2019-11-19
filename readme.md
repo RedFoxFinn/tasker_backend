@@ -12,7 +12,7 @@ I created it to learn new things and represent my skills in front- and back-end 
 
 ### breakdown:
 
-##### backend phase: `testing`
+##### backend phase: `done; waiting frontend`
 ##### frontend phase: `upcoming`
 
 ### planned:
@@ -47,5 +47,7 @@ date | work hours | features worked on
 '19.11.11 | 8 | backend-tests: `api` (dish:testing)
 '19.11.13 | 8 | backend-test: `api` (testing)
 '19.11.14 | 9 | backend-test: `api` (testing)
+'19.11.18 | 0.5 | backend-test: `api` (testing)
+'19.11.19 | 3.5 | backend: `done; waiting frontend`
  | | 
-total | 93 | 
+total | 97 | 
