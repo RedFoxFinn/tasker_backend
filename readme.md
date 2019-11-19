@@ -27,7 +27,7 @@ I created it to learn new things and represent my skills in front- and back-end 
 ### pieces:
 - [backend](https://github.com/RedFoxFinn/rff-project/tree/backend)
 
-- [frontend](nope, not yet)
+- [frontend](https://github.com/RedFoxFinn/rff-project/tree/frontend)
 
 ### app in heroku:
 - [app (not yet!)](nope, not yet)
