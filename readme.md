@@ -49,5 +49,7 @@ date | work hours | features worked on
 '19.11.14 | 9 | backend-test: `api` (testing)
 '19.11.18 | 0.5 | backend-test: `api` (testing)
 '19.11.19 | 8 | backend: `done; waiting frontend`; frontend: started
+'19.11.20 | 6 | frontend: applications
+'19.11.21 | 8 | frontend: applications
  | | 
-total | 101.5 | 
+total | 115.5 | 
