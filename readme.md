@@ -51,5 +51,6 @@ date | work hours | features worked on
 '19.11.19 | 8 | backend: `done; waiting frontend`; frontend: started
 '19.11.20 | 6 | frontend: applications
 '19.11.21 | 8 | frontend: applications
+'19.11.25 | 10 | frontend: applications designing & building; priming apollo-client
  | | 
-total | 115.5 | 
+total | 125.5 | 
