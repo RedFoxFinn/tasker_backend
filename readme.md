@@ -52,5 +52,6 @@ date | work hours | features worked on
 '19.11.20 | 6 | frontend: applications
 '19.11.21 | 8 | frontend: applications
 '19.11.25 | 10 | frontend: applications designing & building; priming apollo-client
+'19.12.03 | 8.5 | frontend: OpenCountries - done; CRA default application removed from codebase; README updated
  | | 
-total | 125.5 | 
+total | 134 | 
