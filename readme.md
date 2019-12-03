@@ -22,7 +22,7 @@ I created it to learn new things and represent my skills in front- and back-end 
 - Dish suggestions `backend:done`
 - Public transport: stop timetables
 - Simple calculator (two values, answers for most common calculations)
-- Implementation of country information viewer
+- Implementation of country information viewer `done`
 
 ### pieces:
 - [backend](https://github.com/RedFoxFinn/rff-project/tree/backend)
