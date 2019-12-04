@@ -53,5 +53,6 @@ date | work hours | features worked on
 '19.11.21 | 8 | frontend: applications
 '19.11.25 | 10 | frontend: applications designing & building; priming apollo-client
 '19.12.03 | 8.5 | frontend: OpenCountries - done; CRA default application removed from codebase; README updated
+'19.12.04 | 6 | frontend: CountryCount, IngredientCount, MethodCount - done; started building apollo-client functionalities & declaring graphql mutations, queries, subscriptions, fragments; added classes; README updated
  | | 
-total | 134 | 
+total | 140 | 
