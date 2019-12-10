@@ -19,9 +19,9 @@ I created it to learn new things and represent my skills in front- and back-end 
 - Login `backend:done`
 - Usergroups `backend:done`
 - Tasklists (and tasks), private & group `backend:done`
-- Dish suggestions `backend:done`
+- Dish suggestions `backend:done,frontend:ongoing`
 - Public transport: stop timetables
-- Simple calculator (two values, answers for most common calculations)
+- Simple calculator (two values, answers for most common calculations) `done`
 - Implementation of country information viewer `done`
 
 ### pieces:
