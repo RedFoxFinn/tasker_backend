@@ -54,5 +54,6 @@ date | work hours | features worked on
 '19.11.25 | 10 | frontend: applications designing & building; priming apollo-client
 '19.12.03 | 8.5 | frontend: OpenCountries - done; CRA default application removed from codebase; README updated
 '19.12.04 | 6 | frontend: CountryCount, IngredientCount, MethodCount - done; started building apollo-client functionalities & declaring graphql mutations, queries, subscriptions, fragments; added classes; README updated
+'19.12.10 | 9 | frontend: mutation, query, subscription, fragment definitions - done; creating visuals for dishy app; some restructuring of project; backend: minor tweaks;
  | | 
-total | 140 | 
+total | 149 | 
