@@ -55,5 +55,6 @@ date | work hours | features worked on
 '19.12.03 | 8.5 | frontend: OpenCountries - done; CRA default application removed from codebase; README updated
 '19.12.04 | 6 | frontend: CountryCount, IngredientCount, MethodCount - done; started building apollo-client functionalities & declaring graphql mutations, queries, subscriptions, fragments; added classes; README updated
 '19.12.10 | 9 | frontend: mutation, query, subscription, fragment definitions - done; creating visuals for dishy app; some restructuring of project; backend: minor tweaks;
+'20.12.08 | 3 | backend: added field 'stops' to users, added functionality to add or remove stops from users, added functionality to activate/deactivate users, tests done for new functionalities & features
  | | 
-total | 149 | 
+total | 152 | 
