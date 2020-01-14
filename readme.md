@@ -16,7 +16,7 @@ I created it to learn new things and represent my skills in front- and back-end 
 ##### frontend phase: `ongoing`
 
 ### planned:
-- Login `backend:done`
+- Login `done`
 - Usergroups `backend:done`
 - Tasklists (and tasks), private & group `backend:done`
 - Dish suggestions `backend:done,frontend:ongoing`
