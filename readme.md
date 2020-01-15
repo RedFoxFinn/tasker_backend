@@ -16,7 +16,7 @@ I created it to learn new things and represent my skills in front- and back-end 
 ##### frontend phase: `ongoing`
 
 ### planned:
-- Login `done`
+- Login `done`,`tweaked` + Registering `done`
 - Usergroups `backend:done`
 - Tasklists (and tasks), private & group `backend:done`
 - Dish suggestions `backend:done,frontend:ongoing`
@@ -58,5 +58,6 @@ date | work hours | features worked on
 '20.01.08 | 3 | backend: added field 'stops' to users, added functionality to add or remove stops from users, added functionality to activate/deactivate users, tests done for new functionalities & features
 '20.01.13 | 7 | small backend tweaks, frontend: login-page (done), added registering
 '20.01.14 | 3.5 | login: connected to backend, tweaked styling, added UserSetting-page
+'20.01.15 | 5.5 | login: tweaked functionality -done, registering: tweaked functionality & connected to backend - done, UserSettings: added functionality to change username & password & connected to backend & tweaked styling
  | | 
-total | 162.5 | 
+total | 168 | 
