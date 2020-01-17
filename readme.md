@@ -6,7 +6,7 @@ This is my pet project. It's also my Fullstack 2019 course project.
 I created it to learn new things and represent my skills in front- and back-end programming.
 
 ### state of project:
-![](https://github.com/RedFoxFinn/rff-project/.github/workflows/ciBackend.yml/badge.svg)
+![](https://github.com/RedFoxFinn/rff-project/BackendCI/badge.svg)
 
 ### pieces:
 - Nodejs/Express backend with Apollo Server
