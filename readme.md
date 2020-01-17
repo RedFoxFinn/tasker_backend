@@ -62,5 +62,6 @@ date | work hours | features worked on
 '20.01.13 | 7 | small backend tweaks, frontend: login-page (done), added registering
 '20.01.14 | 3.5 | login: connected to backend, tweaked styling, added UserSetting-page
 '20.01.15 | 5.5 | login: tweaked functionality -done, registering: tweaked functionality & connected to backend - done, UserSettings: added functionality to change username & password & connected to backend & tweaked styling
+'20.01.17 | 4 | package.json updated, GitHub Action CI setup for backend: automated test running + status badge
  | | 
-total | 168 | 
+total | 172 | 
