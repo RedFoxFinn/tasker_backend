@@ -1,4 +1,4 @@
-name: CI:backend testing
+name: BackendCI
 
 on:
   push:
@@ -6,7 +6,7 @@ on:
       - backend
 
 jobs:
-  build:
+  testBackend:
 
     runs-on: ubuntu-latest
 
@@ -19,10 +19,11 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: ${{ matrix.node-version }}
-    - name: npm install and test
-      run: |
-        npm install
-        npm run lint
-        npm run jest
+    - name: install
+      run: npm install
+    - name: lint
+      run: npm run lint
+    - name: test:jest
+      run: npm run jest
       env:
         CI: true
