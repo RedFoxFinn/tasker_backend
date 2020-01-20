@@ -13,11 +13,6 @@ I created it to learn new things and represent my skills in front- and back-end 
 - React/Redux frontend with Apollo Client
 - MongoDB-Apollo Cloud remote database
 
-### breakdown:
-
-##### backend phase: `done; waiting frontend`
-##### frontend phase: `ongoing`
-
 ### planned:
 - Login `done`,`tweaked` + Registering `done`
 - Usergroups `backend:done`
@@ -29,10 +24,12 @@ I created it to learn new things and represent my skills in front- and back-end 
 
 ### pieces:
 - [backend](https://github.com/RedFoxFinn/rff-project/tree/backend)
+- [![Actions Status](https://github.com/RedFoxFinn/rff-project/workflows/CI:backend/badge.svg)](https://github.com/RedFoxFinn/rff-project/actions)
 
 - [frontend](https://github.com/RedFoxFinn/rff-project/tree/frontend)
+- `ongoing`
 
-### app in heroku:
+### app in heroku / github pages:
 - [app (not yet!)](nope, not yet)
 
 ### timesheet:
@@ -63,6 +60,7 @@ date | work hours | features worked on
 '20.01.14 | 3.5 | login: connected to backend, tweaked styling, added UserSetting-page
 '20.01.15 | 5.5 | login: tweaked functionality -done, registering: tweaked functionality & connected to backend - done, UserSettings: added functionality to change username & password & connected to backend & tweaked styling
 '20.01.17 | 4 | package.json updated, GitHub Action CI setup for backend: automated test running + status badge
+'20.01.20 | 7 | backend: counter tweaks; frontend: more graphql-functionality, tweaked visuals, added more data rendering
  | | 
-total | 172 | 
+total | 179 | 
 
