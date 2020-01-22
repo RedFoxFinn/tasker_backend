@@ -10,14 +10,19 @@ I created it to learn new things and represent my skills in front- and back-end 
 - React/Redux frontend with Apollo Client
 - MongoDB-Apollo Cloud remote database
 
-### planned:
-- Login `done`,`tweaked` + Registering `done`
-- Usergroups `backend:done`
-- Tasklists (and tasks), private & group `backend:done`
-- Dish suggestions `backend:done,frontend:ongoing`
-- Public transport: stop timetables
-- Simple calculator (two values, answers for most common calculations) `done`
-- Implementation of country information viewer `done`
+### features:
+feature | status
+:------ | :----:
+login | `done`,`tweaked`
+registering | `done`
+usergroups | `backend:done`
+task lists (and tasks), private & group | `backend:done`
+dish suggestions | `backend:done,frontend:ongoing`
+public transport: stop timetables & disruption info | `ongoing`
+simple calculator (two values, answers for most common calculations) | `done`
+implementation of country information viewer | `done`
+admin tools (applications status, user & group management) | `ongoing`
+about-page | `done`
 
 ### breakdown:
 part | status
@@ -57,6 +62,7 @@ date | work hours | features worked on
 '20.01.15 | 5.5 | login: tweaked functionality -done, registering: tweaked functionality & connected to backend - done, UserSettings: added functionality to change username & password & connected to backend & tweaked styling
 '20.01.17 | 4 | package.json updated, GitHub Action CI setup for backend: automated test running + status badge
 '20.01.20 | 7 | backend: counter tweaks; frontend: more graphql-functionality, tweaked visuals, added more data rendering
+'20.01.22 | 4 | frontend: updated more consistent styling for OpenCounties, started tasker; issues: up-to-date; ISSUE: tasker api faulty? (error occurred while loading private lists && error occurred while loading group lists)
  | | 
-total | 179 | 
+total | 183 | 
 
