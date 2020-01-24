@@ -63,6 +63,7 @@ date | work hours | features worked on
 '20.01.17 | 4 | package.json updated, GitHub Action CI setup for backend: automated test running + status badge
 '20.01.20 | 7 | backend: counter tweaks; frontend: more graphql-functionality, tweaked visuals, added more data rendering
 '20.01.22 | 4 | frontend: updated more consistent styling for OpenCounties, started tasker; issues: up-to-date; ISSUE: tasker api faulty? (error occurred while loading private lists && error occurred while loading group lists)
+'20.01.24 | 8 | frontend: tasker issue solved (fragment-related problem), added visuals to tasker, added Cypress to project for testing, started building e2e tests, added IDs for various elements in Login & Registration to help Cypress
  | | 
-total | 183 | 
+total | 191 | 
 
