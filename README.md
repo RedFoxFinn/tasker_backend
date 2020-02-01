@@ -32,8 +32,8 @@ part | status
 production build | `upcoming`
 webapp | `upcoming`
 
-### app in heroku / github pages:
-- [app (not yet!)](nope, not yet)
+### github pages:
+- [app (https://)](nope, not yet)
 
 ### timesheet:
 date | work hours | features worked on
