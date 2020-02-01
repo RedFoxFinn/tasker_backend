@@ -30,10 +30,10 @@ part | status
 [backend](https://github.com/RedFoxFinn/rff-project/tree/backend) | [![Actions Status](https://github.com/RedFoxFinn/rff-project/workflows/CI:backend/badge.svg)](https://github.com/RedFoxFinn/rff-project/actions)
 [frontend](https://github.com/RedFoxFinn/rff-project/tree/frontend) | `ongoing`
 production build | `upcoming`
-webapp | `upcoming`
+webapp in GitHub Pages | `upcoming`
 
 ### github pages:
-- [app (https://)](nope, not yet)
+- [GitHub Pages](https://redfoxfinn.github.io)
 
 ### timesheet:
 date | work hours | features worked on
