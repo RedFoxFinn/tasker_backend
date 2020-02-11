@@ -30,7 +30,7 @@ part | status
 [backend](https://github.com/RedFoxFinn/rff-project/tree/backend) | ![CI:backend:tests](https://github.com/RedFoxFinn/rff-project/workflows/CI:backend:tests/badge.svg?branch=backend)
 [frontend](https://github.com/RedFoxFinn/rff-project/tree/frontend) | ![CI:frontend:tests](https://github.com/RedFoxFinn/rff-project/workflows/CI:frontend:tests/badge.svg?branch=frontend)
 production build | `upcoming`
-[webapp @ GitHub Pages](https://redfoxfinn.github.io) | (https://badgen.net/badge/icon/site/orange?icon=github&label=pages&labelColor=orange)
+[webapp @ GitHub Pages](https://redfoxfinn.github.io) | ![Badge](https://badgen.net/badge/icon/site/orange?icon=github&label=pages&labelColor=orange)
 
 ### timesheet:
 date | work hours | features worked on
