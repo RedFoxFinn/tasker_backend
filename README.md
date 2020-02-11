@@ -27,8 +27,8 @@ about-page | `done`
 ### breakdown:
 part | status
 :--- | :----:
-[backend](https://github.com/RedFoxFinn/rff-project/tree/backend) | ![CI:backend:tests](https://github.com/RedFoxFinn/rff-project/workflows/CI:backend:tests/badge.svg?branch=backend&style=flat-square)
-[frontend](https://github.com/RedFoxFinn/rff-project/tree/frontend) | ![CI:frontend:tests](https://github.com/RedFoxFinn/rff-project/workflows/CI:frontend:tests/badge.svg?branch=frontend&style=flat-square)
+[backend](https://github.com/RedFoxFinn/rff-project/tree/backend) | ![CI:backend:tests](https://github.com/RedFoxFinn/rff-project/workflows/CI:backend:tests/badge.svg?branch=backend)
+[frontend](https://github.com/RedFoxFinn/rff-project/tree/frontend) | ![CI:frontend:tests](https://github.com/RedFoxFinn/rff-project/workflows/CI:frontend:tests/badge.svg?branch=frontend)
 production build | `upcoming`
 [webapp @ GitHub Pages](https://redfoxfinn.github.io) | `upcoming`
 
