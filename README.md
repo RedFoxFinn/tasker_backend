@@ -68,6 +68,6 @@ date | work hours | features worked on
  | | 
 total | 208 | 
 
-[![Awesome Badges](https://img.shields.io/badge/badges-awesome-orange.svg)](https://shields.io/)
-[![saythanks](https://img.shields.io/badge/say-thanks-1f425f.svg)](https://fullstackopen.com/)
+[![](https://img.shields.io/badge/MOOC-Uni_Helsinki-1f425f.svg)](https://fullstackopen.com/)
 [![](https://img.shields.io/badge/Made%20with-WebStorm-5ee0bd.svg)](https://www.jetbrains.com/webstorm)
+[![Awesome Badges](https://img.shields.io/badge/badges-awesome-orange.svg)](https://shields.io/)
