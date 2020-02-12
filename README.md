@@ -68,3 +68,4 @@ date | work hours | features worked on
  | | 
 total | 208 | 
 
+[![Awesome Badges](https://img.shields.io/badge/badges-awesome-orange.svg)](https://shields.io/)
