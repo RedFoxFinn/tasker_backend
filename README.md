@@ -29,7 +29,7 @@ part | status
 :--- | :----:
 [backend](https://github.com/RedFoxFinn/rff-project/tree/backend) | ![CI:backend:tests](https://github.com/RedFoxFinn/rff-project/workflows/CI:backend:tests/badge.svg?branch=backend)
 [frontend](https://github.com/RedFoxFinn/rff-project/tree/frontend) | ![CI:frontend:tests](https://github.com/RedFoxFinn/rff-project/workflows/CI:frontend:tests/badge.svg?branch=frontend)
-production build | `upcoming`
+staging | `upcoming`
 [![](https://badgen.net/badge/icon/site/orange?icon=github&label=pages)](https://redfoxfinn.github.io/) | 
 
 ### timesheet:
@@ -65,8 +65,9 @@ date | work hours | features worked on
 '20.01.24 | 8 | frontend: tasker issue solved (fragment-related problem), added visuals to tasker, added Cypress to project for testing, started building e2e tests, added IDs for various elements in Login & Registration to help Cypress
 '20.01.27-31 && '20.02.01 | 10 | frontend: graphql queries & mutations for dishy & tasker, visuals & restyling for dishy & tasker, building functionalities & subcomponents for tasker & dishy, added new CSS files for restructuring styling
 '20.02.10-11 | 7 | frontend: styling tweaking, test & functionality building
+'20.02.12 | 7 | frontend: tests refactoring & building, added new frontend GitHub Actions CI to project
  | | 
-total | 208 | 
+total | 215 | 
 
 [![](https://img.shields.io/badge/MOOC-Uni_Helsinki-1f425f.svg)](https://fullstackopen.com/)
 [![](https://img.shields.io/badge/Made%20with-WebStorm-5ee0bd.svg)](https://www.jetbrains.com/webstorm)
