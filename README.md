@@ -69,6 +69,6 @@ date | work hours | features worked on
  | | 
 total | 215 | 
 
-[![](https://img.shields.io/badge/MOOC-Uni_Helsinki-1f425f.svg)](https://fullstackopen.com/)
-[![](https://img.shields.io/badge/Made%20with-WebStorm-5ee0bd.svg)](https://www.jetbrains.com/webstorm)
-[![Awesome Badges](https://img.shields.io/badge/badges-awesome-orange.svg)](https://shields.io/)
+[![Huge credits to FullStack open](https://img.shields.io/badge/MOOC-Uni_Helsinki-1f425f.svg)](https://fullstackopen.com/)
+[![Trusted tool in development](https://img.shields.io/badge/Made%20with-WebStorm-5ee0bd.svg)](https://www.jetbrains.com/webstorm)
+[![Fun & useful markdown thingy](https://img.shields.io/badge/badges-awesome-orange.svg)](https://shields.io/)
