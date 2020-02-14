@@ -29,7 +29,7 @@ part | status
 :--- | :----:
 [backend](https://github.com/RedFoxFinn/rff-project/tree/backend) | ![CI:backend:tests](https://github.com/RedFoxFinn/rff-project/workflows/CI:backend:tests/badge.svg?branch=backend)
 [frontend](https://github.com/RedFoxFinn/rff-project/tree/frontend) | ![CI:frontend:tests](https://github.com/RedFoxFinn/rff-project/workflows/CI:frontend:tests/badge.svg?branch=frontend)
-[staging](https://github.com/RedFoxFinn/rff-project/tree/staging) | `ongoing`
+[staging](https://github.com/RedFoxFinn/rff-project/tree/staging) | ![CI:build](https://github.com/RedFoxFinn/rff-project/workflows/CI:build/badge.svg?branch=staging&event=push)
 [![](https://badgen.net/badge/icon/site/orange?icon=github&label=pages)](https://redfoxfinn.github.io/) | 
 
 ### timesheet:
