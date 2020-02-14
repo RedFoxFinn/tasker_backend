@@ -3,7 +3,7 @@
 
 This is my pet project. It's also my Fullstack 2019 course project.
 
-I created it to learn new things and represent my skills in front- and back-end programming.
+I created it to learn new things and represent my skills both in front- & backend programming.
 
 ### pieces:
 - Nodejs/Express backend with Apollo Server
@@ -17,7 +17,7 @@ login | `done`,`tweaked`
 registering | `done`
 usergroups | `backend:done`
 task lists (and tasks), private & group | `backend:done`
-dish suggestions | `backend:done,frontend:ongoing`
+dish suggestions | `done`
 public transport: stop timetables & disruption info | `ongoing`
 simple calculator (two values, answers for most common calculations) | `done`
 implementation of country information viewer | `done`
