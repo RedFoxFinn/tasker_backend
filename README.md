@@ -66,8 +66,9 @@ date | work hours | features worked on
 '20.01.27-31 && '20.02.01 | 10 | frontend: graphql queries & mutations for dishy & tasker, visuals & restyling for dishy & tasker, building functionalities & subcomponents for tasker & dishy, added new CSS files for restructuring styling
 '20.02.10-11 | 7 | frontend: styling tweaking, test & functionality building
 '20.02.12 | 7 | frontend: tests refactoring & building, added new frontend GitHub Actions CI to project
+'20.02.14 | 7 | backend CI checked, frontend CI checked & tweaked, build CI created & edited, fixed Content Security Protocol errors with build.
  | | 
-total | 215 | 
+total | 222 | 
 
 [![Huge credits to FullStack open](https://img.shields.io/badge/MOOC-Uni_Helsinki-1f425f.svg)](https://fullstackopen.com/)
 [![Trusted tool in development](https://img.shields.io/badge/Made%20with-WebStorm-5ee0bd.svg)](https://www.jetbrains.com/webstorm)
