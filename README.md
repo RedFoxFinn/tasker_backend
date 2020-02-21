@@ -70,7 +70,7 @@ date | work hours | features worked on
 '20.02.14 | 7 | backend CI checked, frontend CI checked & tweaked, build CI created & edited, fixed Content Security Protocol errors with build.
 '20.02.17-21 | 10 | frontend & backend: prepping for staging, altering workflows; frontend: reorganizing testing, integration tests separated to staging;
  | | 
-total | 222 | 
+total | 232 | 
 
 [![Huge credits to FullStack open](https://img.shields.io/badge/MOOC-Uni_Helsinki-1f425f.svg)](https://fullstackopen.com/)
 [![Trusted tool in development](https://img.shields.io/badge/Made%20with-WebStorm-5ee0bd.svg)](https://www.jetbrains.com/webstorm)
