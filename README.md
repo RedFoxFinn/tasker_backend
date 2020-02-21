@@ -30,7 +30,7 @@ part | status
 [backend](https://github.com/RedFoxFinn/rff-project/tree/backend) | ![CI Status](https://github.com/RedFoxFinn/rff-project/workflows/CI:backend/badge.svg?branch=backend)
 [frontend](https://github.com/RedFoxFinn/rff-project/tree/frontend) | ![CI Status](https://github.com/RedFoxFinn/rff-project/workflows/CI:frontend/badge.svg?branch=frontend)
 [staging](https://github.com/RedFoxFinn/rff-project/tree/staging) | ![CI status](https://github.com/RedFoxFinn/rff-project/workflows/CI:stage/badge.svg?branch=staging)
-[live project](https://redfoxfinn.github.io/) | ![GH-pages deployment](https://github.com/RedFoxFinn/redfoxfinn.github.io/workflows/GH-pages%20deployment/badge.svg)
+[live project](https://kettula.herokuapp.com/) | 
 version | ![Page version](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/RedFoxFinn/rff-project/frontend/package.json&query=version&color=61bd51&label=frontend)![Page version](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/RedFoxFinn/rff-project/backend/package.json&query=version&color=61bd51&label=backend)
 
 ### timesheet:
@@ -68,6 +68,7 @@ date | work hours | features worked on
 '20.02.10-11 | 7 | frontend: styling tweaking, test & functionality building
 '20.02.12 | 7 | frontend: tests refactoring & building, added new frontend GitHub Actions CI to project
 '20.02.14 | 7 | backend CI checked, frontend CI checked & tweaked, build CI created & edited, fixed Content Security Protocol errors with build.
+'20.02.17-21 | 10 | frontend & backend: prepping for staging, altering workflows; frontend: reorganizing testing, integration tests separated to staging;
  | | 
 total | 222 | 
 
