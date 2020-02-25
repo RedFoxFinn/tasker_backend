@@ -69,8 +69,9 @@ date | work hours | features worked on
 '20.02.12 | 7 | frontend: tests refactoring & building, added new frontend GitHub Actions CI to project
 '20.02.14 | 7 | backend CI checked, frontend CI checked & tweaked, build CI created & edited, fixed Content Security Protocol errors with build.
 '20.02.17-21 | 10 | frontend & backend: prepping for staging, altering workflows; frontend: reorganizing testing, integration tests separated to staging;
+'20.02.25 | 6 | frontend: dishy gained subscriptions
  | | 
-total | 232 | 
+total | 238 | 
 
 [![Huge credits to FullStack open](https://img.shields.io/badge/MOOC-Uni_Helsinki-1f425f.svg)](https://fullstackopen.com/)
 [![Trusted tool in development](https://img.shields.io/badge/Made%20with-WebStorm-5ee0bd.svg)](https://www.jetbrains.com/webstorm)
