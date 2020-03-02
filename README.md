@@ -71,8 +71,9 @@ date | work hours | features worked on
 '20.02.17-21 | 10 | frontend & backend: prepping for staging, altering workflows; frontend: reorganizing testing, integration tests separated to staging;
 '20.02.25 | 6 | frontend: dishy gained subscriptions
 '20.02.27-28 | 8 | staging: fixing tests, adding carb fails due input typing, adding other dish components fail due not visible notification; backend: fixed dish component usage
+'20.03.02 | 6 | staging: integration tests failing (notification); frontend: added User-class to Redux-state to bring more functionality, started building Tasker logic & GraphQL-functionalities
  | | 
-total | 246 | 
+total | 252 | 
 
 [![Huge credits to FullStack open](https://img.shields.io/badge/MOOC-Uni_Helsinki-1f425f.svg)](https://fullstackopen.com/)
 [![Trusted tool in development](https://img.shields.io/badge/Made%20with-WebStorm-5ee0bd.svg)](https://www.jetbrains.com/webstorm)
