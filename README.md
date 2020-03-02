@@ -23,6 +23,7 @@ simple calculator (two values, answers for most common calculations) | `done`
 implementation of country information viewer | `done`
 admin tools (applications status, user & group management) | `ongoing`
 about-page | `done`
+EN/FI-translations | `EN done`,`FI pending`
 
 ### breakdown:
 part | status
