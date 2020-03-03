@@ -21,9 +21,9 @@ I created it to learn new things and represent my skills both in front- & backen
 legend | 
 ------ | 
 done: &#x2714; |
-upcoming: \&#x26CF; | 
+upcoming: &#x26CF; | 
 modified: &#x2699; | 
-ongoing: \&#x2692; | 
+ongoing: &#x2692; | 
 might not be stable: &#x26A0; |
 
 ### features:
