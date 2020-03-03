@@ -5,7 +5,7 @@
 [three lines right]: <> (&#x269E;)
 [three lines left]: <> (&#x269F;)
 [warning]: <> (&#x26A0;)
-[gear]: <> (&#x2699;)
+[gear]: <> (&#9881;)
 
 ## rff-demo-project
 
@@ -22,7 +22,7 @@ legend |
 ------ | 
 done: &#x2714; |
 upcoming: &#x26CF; | 
-modified: &#x2699; | 
+modified: &#9881; | 
 ongoing: &#x2692; | 
 might not be stable: &#x26A0; |
 
@@ -30,7 +30,7 @@ might not be stable: &#x26A0; |
 
 feature | status:backend | status:frontend
 :------ | :------------: | :-------------:
-login | &#x2714; , &#x2699; | &#x2714;
+login | &#x2714; , &#9881; | &#x2714;
 registering | &#x2714; | &#x2714;
 usergroups | &#x2714; | &#x26CF;
 task lists (and tasks), private & group | &#x2714; | &#x2692;
