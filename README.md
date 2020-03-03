@@ -1,6 +1,6 @@
 [strong checkmark]: <> (&#x2714;)
 [strong cross]: <> (&#x2718;)
-[hammer & pick]: <> (&#x2692;)
+[hammer & pick]: <> (&#9874;)
 [pick]: <> (&#x26CF;)
 [three lines right]: <> (&#x269E;)
 [three lines left]: <> (&#x269F;)
@@ -23,7 +23,7 @@ legend |
 done: &#x2714; |
 upcoming: &#x26CF; | 
 modified: &#9881; | 
-ongoing: &#x2692; | 
+ongoing: &#9874; | 
 might not be stable: &#x26A0; |
 
 ### features:
@@ -33,12 +33,12 @@ feature | status:backend | status:frontend
 login | &#x2714; , &#9881; | &#x2714;
 registering | &#x2714; | &#x2714;
 usergroups | &#x2714; | &#x26CF;
-task lists (and tasks), private & group | &#x2714; | &#x2692;
-dish suggestions | &#x2714; | &#x2692; , &#x26A0;
-public transport: stop timetables & disruption info |  | &#x2692;
+task lists (and tasks), private & group | &#x2714; | &#9874;
+dish suggestions | &#x2714; | &#9874; , &#x26A0;
+public transport: stop timetables & disruption info |  | &#9874;
 simple calculator (two values, answers for most common calculations) | | &#x2714;
 implementation of country information viewer | | &#x2714;
-admin tools (applications status, user & group management) | &#x2714; | &#x2692;
+admin tools (applications status, user & group management) | &#x2714; | &#9874;
 about-page | | &#x2714;
 `EN`/`FI`-translations | | `EN` &#x2714; , `FI` &#x26CF;
 
