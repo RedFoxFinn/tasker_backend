@@ -1,3 +1,11 @@
+[strong checkmark]: <> (&#x2714;)
+[strong cross]: <> (&#x2718;)
+[hammer & pick]: <> (&#x2692;)
+[pick]: <> (&#x26CF;)
+[three lines right]: <> (&#x269E;)
+[three lines left]: <> (&#x269F;)
+[warning]: <> (&#x26A0;)
+[gear]: <> (&#x2699;)
 
 ## rff-demo-project
 
@@ -10,20 +18,29 @@ I created it to learn new things and represent my skills both in front- & backen
 - React/Redux frontend with Apollo Client
 - MongoDB-Apollo Cloud remote database
 
+legend | 
+------ | 
+done: &#x2714; |
+upcoming: &#x26CF; | 
+modified: &#x2699; | 
+ongoing: &#x2692; | 
+might not be stable: &#x26A0; |
+
 ### features:
-feature | status
-:------ | :----:
-login | `done`,`tweaked`
-registering | `done`
-usergroups | `backend:done`
-task lists (and tasks), private & group | `backend:done`
-dish suggestions | `done`
-public transport: stop timetables & disruption info | `ongoing`
-simple calculator (two values, answers for most common calculations) | `done`
-implementation of country information viewer | `done`
-admin tools (applications status, user & group management) | `ongoing`
-about-page | `done`
-`EN`/`FI`-translations | `EN done`,`FI pending`
+
+feature | status:backend | status:frontend
+:------ | :------------: | :-------------:
+login | &#x2714; , &#x2699; | &#x2714;
+registering | &#x2714; | &#x2714;
+usergroups | &#x2714; | &#x26CF;
+task lists (and tasks), private & group | &#x2714; | &#x2692;
+dish suggestions | &#x2714; | &#x2692; , &#x26A0;
+public transport: stop timetables & disruption info |  | &#x2692;
+simple calculator (two values, answers for most common calculations) | | &#x2714;
+implementation of country information viewer | | &#x2714;
+admin tools (applications status, user & group management) | &#x2714; | &#x2692;
+about-page | | &#x2714;
+`EN`/`FI`-translations | | `EN` &#x2714; , `FI` &#x26CF;
 
 ### breakdown:
 part | status
@@ -31,7 +48,7 @@ part | status
 [backend](https://github.com/RedFoxFinn/rff-project/tree/backend) | ![CI Status](https://github.com/RedFoxFinn/rff-project/workflows/CI:backend/badge.svg?branch=backend)
 [frontend](https://github.com/RedFoxFinn/rff-project/tree/frontend) | ![CI Status](https://github.com/RedFoxFinn/rff-project/workflows/CI:frontend/badge.svg?branch=frontend)
 [staging](https://github.com/RedFoxFinn/rff-project/tree/staging) | ![CI status](https://github.com/RedFoxFinn/rff-project/workflows/CI:stage/badge.svg?branch=staging)
-[live project](https://kettula.herokuapp.com/) | 
+[live project](https://kettula.herokuapp.com/) | &#x26A0;
 version | ![Page version](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/RedFoxFinn/rff-project/frontend/package.json&query=version&color=61bd51&label=frontend)![Page version](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/RedFoxFinn/rff-project/backend/package.json&query=version&color=61bd51&label=backend)
 
 ### timesheet:
@@ -73,8 +90,9 @@ date | work hours | features worked on
 '20.02.25 | 6 | frontend: dishy gained subscriptions
 '20.02.27-28 | 8 | staging: fixing tests, adding carb fails due input typing, adding other dish components fail due not visible notification; backend: fixed dish component usage
 '20.03.02 | 6 | staging: integration tests failing (notification); frontend: added User-class to Redux-state to bring more functionality, started building Tasker logic & GraphQL-functionalities
+'20.03.03 | 9 | frontend: continued with tasker visuals & GraphQL; project README's: added unicode symbols to act as status markers
  | | 
-total | 252 | 
+total | 261 | 
 
 [![Huge credits to FullStack open](https://img.shields.io/badge/MOOC-Uni_Helsinki-1f425f.svg)](https://fullstackopen.com/)
 [![Trusted tool in development](https://img.shields.io/badge/Made%20with-WebStorm-5ee0bd.svg)](https://www.jetbrains.com/webstorm)
