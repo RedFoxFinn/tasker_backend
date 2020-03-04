@@ -34,7 +34,7 @@ feature | status:backend | status:frontend
 login | <img src="https://api.iconify.design/mdi-check-circle-outline.svg?color=green"/><img src="https://api.iconify.design/mdi-pencil-circle-outline.svg?color=blue"/> | <img src="https://api.iconify.design/mdi-check-circle-outline.svg?color=green"/>
 registering | <img src="https://api.iconify.design/mdi-check-circle-outline.svg?color=green"/> | <img src="https://api.iconify.design/mdi-check-circle-outline.svg?color=green"/>
 usergroups | <img src="https://api.iconify.design/mdi-check-circle-outline.svg?color=green"/> | <img src="https://api.iconify.design/mdi-hammer.svg?color=red"/>
-task lists (and tasks), private & group | <img src="https://api.iconify.design/mdi-check-circle-outline.svg?color=green"/> | <img src="https://api.iconify.design/mdi-progress-wrench.svg?color=orange"/>
+task lists (and tasks), private & group | <img src="https://api.iconify.design/mdi-check-circle-outline.svg?color=green"/> | <img src="https://api.iconify.design/mdi-progress-wrench.svg?color=orange"/><img src="https://api.iconify.design/mdi-alert-outline.svg?color=orangered"/>
 dish suggestions | <img src="https://api.iconify.design/mdi-check-circle-outline.svg?color=green"/> | <img src="https://api.iconify.design/mdi-progress-wrench.svg?color=orange"/><img src="https://api.iconify.design/mdi-alert-outline.svg?color=orangered"/>
 public transport: stop timetables & disruption info |  | <img src="https://api.iconify.design/mdi-progress-wrench.svg?color=orange"/>
 simple calculator (two values, answers for most common calculations) | | <img src="https://api.iconify.design/mdi-check-circle-outline.svg?color=green"/>
