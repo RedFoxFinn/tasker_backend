@@ -21,27 +21,27 @@ I created it to learn new things and represent my skills both in front- & backen
 
 legend | 
 ------ | 
-done: &#x2714; |
-upcoming: &#x26CF; | 
-modified: &#9881; | 
-ongoing: &#9874; | 
-might not be stable: &#x26A0; |
+<img src="https://api.iconify.design/mdi-pencil-circle-outline.svg?color=blue"/> - modified | 
+<img src="https://api.iconify.design/mdi-check-circle-outline.svg?color=green"/> - done |
+<img src="https://api.iconify.design/mdi-progress-wrench.svg?color=orange"/> - ongoing | 
+<img src="https://api.iconify.design/mdi-hammer.svg?color=red"/> - upcoming | 
+<img src="https://api.iconify.design/mdi-alert-outline.svg?color=orangered"/> - potentially unstable |
 
 ### features:
 
 feature | status:backend | status:frontend
 :------ | :------------: | :-------------:
-login | &#x2714; , &#9881; | &#x2714;
-registering | &#x2714; | &#x2714;
-usergroups | &#x2714; | &#x26CF;
-task lists (and tasks), private & group | &#x2714; | &#9874;
-dish suggestions | &#x2714; | &#9874; , &#x26A0;
-public transport: stop timetables & disruption info |  | &#9874;
-simple calculator (two values, answers for most common calculations) | | &#x2714;
-implementation of country information viewer | | &#x2714;
-admin tools (applications status, user & group management) | &#x2714; | &#9874;
-about-page | | &#x2714;
-`EN`/`FI`-translations | | `EN` &#x2714; , `FI` &#x26CF;
+login | <img src="https://api.iconify.design/mdi-check-circle-outline.svg?color=green"/><img src="https://api.iconify.design/mdi-pencil-circle-outline.svg?color=blue"/> | <img src="https://api.iconify.design/mdi-check-circle-outline.svg?color=green"/>
+registering | <img src="https://api.iconify.design/mdi-check-circle-outline.svg?color=green"/> | <img src="https://api.iconify.design/mdi-check-circle-outline.svg?color=green"/>
+usergroups | <img src="https://api.iconify.design/mdi-check-circle-outline.svg?color=green"/> | <img src="https://api.iconify.design/mdi-hammer.svg?color=red"/>
+task lists (and tasks), private & group | <img src="https://api.iconify.design/mdi-check-circle-outline.svg?color=green"/> | <img src="https://api.iconify.design/mdi-progress-wrench.svg?color=orange"/>
+dish suggestions | <img src="https://api.iconify.design/mdi-check-circle-outline.svg?color=green"/> | <img src="https://api.iconify.design/mdi-progress-wrench.svg?color=orange"/><img src="https://api.iconify.design/mdi-alert-outline.svg?color=orangered"/>
+public transport: stop timetables & disruption info |  | <img src="https://api.iconify.design/mdi-progress-wrench.svg?color=orange"/>
+simple calculator (two values, answers for most common calculations) | | <img src="https://api.iconify.design/mdi-check-circle-outline.svg?color=green"/>
+implementation of country information viewer | | <img src="https://api.iconify.design/mdi-check-circle-outline.svg?color=green"/>
+admin tools (applications status, user & group management) | <img src="https://api.iconify.design/mdi-check-circle-outline.svg?color=green"/> | <img src="https://api.iconify.design/mdi-progress-wrench.svg?color=orange"/>
+about-page | | <img src="https://api.iconify.design/mdi-check-circle-outline.svg?color=green"/>
+`EN`/`FI`-translations | | <img src="https://api.iconify.design/mdi-check-circle-outline.svg?color=green"/> / <img src="https://api.iconify.design/mdi-hammer.svg?color=red"/>
 
 ### breakdown:
 part | status
@@ -49,7 +49,7 @@ part | status
 [backend](https://github.com/RedFoxFinn/rff-project/tree/backend) | ![CI Status](https://github.com/RedFoxFinn/rff-project/workflows/CI:backend/badge.svg?branch=backend)
 [frontend](https://github.com/RedFoxFinn/rff-project/tree/frontend) | ![CI Status](https://github.com/RedFoxFinn/rff-project/workflows/CI:frontend/badge.svg?branch=frontend)
 [staging](https://github.com/RedFoxFinn/rff-project/tree/staging) | ![CI status](https://github.com/RedFoxFinn/rff-project/workflows/CI:stage/badge.svg?branch=staging)
-[live project](https://kettula.herokuapp.com/) | &#x26A0;
+[live project](https://kettula.herokuapp.com/) | <img src="https://api.iconify.design/mdi-alert-outline.svg?color=orangered"/>
 version | ![Page version](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/RedFoxFinn/rff-project/frontend/package.json&query=version&color=61bd51&label=frontend)![Page version](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/RedFoxFinn/rff-project/backend/package.json&query=version&color=61bd51&label=backend)
 
 ### timesheet:
@@ -92,8 +92,9 @@ date | work hours | features worked on
 '20.02.27-28 | 8 | staging: fixing tests, adding carb fails due input typing, adding other dish components fail due not visible notification; backend: fixed dish component usage
 '20.03.02 | 6 | staging: integration tests failing (notification); frontend: added User-class to Redux-state to bring more functionality, started building Tasker logic & GraphQL-functionalities
 '20.03.03 | 9 | frontend: continued with tasker visuals & GraphQL; project README's: added unicode symbols to act as status markers
+'20.03.04 | 6 | frontend: tasker visuals, GraphQL functionalities, mutation & subscription helper functions, README update; backend: README update
  | | 
-total | 261 | 
+total | 267 | 
 
 [![Huge credits to FullStack open](https://img.shields.io/badge/MOOC-Uni_Helsinki-1f425f.svg)](https://fullstackopen.com/)
 [![Trusted tool in development](https://img.shields.io/badge/Made%20with-WebStorm-5ee0bd.svg)](https://www.jetbrains.com/webstorm)
