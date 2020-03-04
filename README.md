@@ -1,13 +1,12 @@
-<img src="https://api.iconify.design/si-glyph:pick.svg"/>
 
-[strong checkmark]: <> (&#x2714;)
-[strong cross]: <> (&#x2718;)
-[hammer & pick]: <> (&#9874;)
-[pick]: <> (&#x26CF;)
-[three lines right]: <> (&#x269E;)
-[three lines left]: <> (&#x269F;)
-[warning]: <> (&#x26A0;)
-[gear]: <> (&#9881;)
+[strong checkmark]: <> (<img src="https://api.iconify.design/si-glyph:pick.svg"/>)
+[strong cross]: <> (<img src="https://api.iconify.design/si-glyph:pick.svg"/>)
+[hammer & pick]: <> (<img src="https://api.iconify.design/si-glyph:pick.svg"/>)
+[pick]: <> (<img src="https://api.iconify.design/si-glyph:pick.svg"/>)
+[three lines right]: <> (<img src="https://api.iconify.design/si-glyph:pick.svg"/>)
+[three lines left]: <> (<img src="https://api.iconify.design/si-glyph:pick.svg"/>)
+[warning]: <> (<img src="https://api.iconify.design/si-glyph:pick.svg"/>)
+[gear]: <> (<img src="https://api.iconify.design/si-glyph:pick.svg"/>)
 
 ## rff-demo-project
 
