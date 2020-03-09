@@ -34,8 +34,8 @@ feature | status:backend | status:frontend
 login | <img src="https://api.iconify.design/mdi-check-circle-outline.svg?color=green"/><img src="https://api.iconify.design/mdi-pencil-circle-outline.svg?color=blue"/> | <img src="https://api.iconify.design/mdi-check-circle-outline.svg?color=green"/>
 registering | <img src="https://api.iconify.design/mdi-check-circle-outline.svg?color=green"/> | <img src="https://api.iconify.design/mdi-check-circle-outline.svg?color=green"/>
 usergroups | <img src="https://api.iconify.design/mdi-check-circle-outline.svg?color=green"/> | <img src="https://api.iconify.design/mdi-hammer.svg?color=red"/>
-task lists (and tasks), private & group | <img src="https://api.iconify.design/mdi-check-circle-outline.svg?color=green"/><img src="https://api.iconify.design/mdi-alert-outline.svg?color=orangered"/> | <img src="https://api.iconify.design/mdi-progress-wrench.svg?color=orange"/>
-dish suggestions | <img src="https://api.iconify.design/mdi-check-circle-outline.svg?color=green"/> | <img src="https://api.iconify.design/mdi-progress-wrench.svg?color=orange"/>
+task lists (and tasks), private & group | <img src="https://api.iconify.design/mdi-check-circle-outline.svg?color=green"/><img src="https://api.iconify.design/mdi-pencil-circle-outline.svg?color=blue"/> | <img src="https://api.iconify.design/mdi-check-circle-outline.svg?color=green"/><img src="https://api.iconify.design/mdi-pencil-circle-outline.svg?color=blue"/>
+dish suggestions | <img src="https://api.iconify.design/mdi-check-circle-outline.svg?color=green"/><img src="https://api.iconify.design/mdi-pencil-circle-outline.svg?color=blue"/> | <img src="https://api.iconify.design/mdi-check-circle-outline.svg?color=green"/><img src="https://api.iconify.design/mdi-pencil-circle-outline.svg?color=blue"/>
 public transport: stop timetables & disruption info |  | <img src="https://api.iconify.design/mdi-hammer.svg?color=red"/>
 simple calculator (two values, answers for most common calculations) | | <img src="https://api.iconify.design/mdi-check-circle-outline.svg?color=green"/>
 implementation of country information viewer | | <img src="https://api.iconify.design/mdi-check-circle-outline.svg?color=green"/>
@@ -94,8 +94,9 @@ date | work hours | features worked on
 '20.03.03 | 9 | frontend: continued with tasker visuals & GraphQL; project README's: added unicode symbols to act as status markers
 '20.03.04 | 6 | frontend: tasker visuals, GraphQL functionalities, mutation & subscription helper functions, README update; backend: README update
 '20.03.05 | 7 | frontend: added news funtionality (queries currently, mutations will be added to admin tools), completed tasker GraphQL functionalities & modified visuals, landingpage: added news; backend: added news to API -> testing phase, removeTask-functionality broken!
+'20.03.09 | 7 | frontend: preliminary user management, minor visual modifications on tasker & dishy, partial codebase restructuring to dishy, tasker & admin tools; backend: updated typeDefs, resolvers & models to reflect current state of webapp
  | | 
-total | 274 | 
+total | 281 | 
 
 [![Huge credits to FullStack open](https://img.shields.io/badge/MOOC-Uni_Helsinki-1f425f.svg)](https://fullstackopen.com/)
 [![Trusted tool in development](https://img.shields.io/badge/Made%20with-WebStorm-5ee0bd.svg)](https://www.jetbrains.com/webstorm)
