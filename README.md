@@ -33,7 +33,8 @@ feature | status:backend | status:frontend
 :------ | :------------: | :-------------:
 login | <img src="https://api.iconify.design/mdi-check-circle-outline.svg?color=green"/><img src="https://api.iconify.design/mdi-pencil-circle-outline.svg?color=blue"/> | <img src="https://api.iconify.design/mdi-check-circle-outline.svg?color=green"/>
 registering | <img src="https://api.iconify.design/mdi-check-circle-outline.svg?color=green"/> | <img src="https://api.iconify.design/mdi-check-circle-outline.svg?color=green"/>
-usergroups | <img src="https://api.iconify.design/mdi-check-circle-outline.svg?color=green"/> | <img src="https://api.iconify.design/mdi-hammer.svg?color=red"/>
+news | <img src="https://api.iconify.design/mdi-check-circle-outline.svg?color=green"/> | <img src="https://api.iconify.design/mdi-check-circle-outline.svg?color=green"/>
+usergroups | <img src="https://api.iconify.design/mdi-check-circle-outline.svg?color=green"/> | <img src="https://api.iconify.design/mdi-progress-wrench.svg?color=orange"/>
 task lists (and tasks), private & group | <img src="https://api.iconify.design/mdi-check-circle-outline.svg?color=green"/><img src="https://api.iconify.design/mdi-pencil-circle-outline.svg?color=blue"/> | <img src="https://api.iconify.design/mdi-check-circle-outline.svg?color=green"/><img src="https://api.iconify.design/mdi-pencil-circle-outline.svg?color=blue"/>
 dish suggestions | <img src="https://api.iconify.design/mdi-check-circle-outline.svg?color=green"/><img src="https://api.iconify.design/mdi-pencil-circle-outline.svg?color=blue"/> | <img src="https://api.iconify.design/mdi-check-circle-outline.svg?color=green"/><img src="https://api.iconify.design/mdi-pencil-circle-outline.svg?color=blue"/>
 public transport: stop timetables & disruption info |  | <img src="https://api.iconify.design/mdi-hammer.svg?color=red"/>
@@ -95,8 +96,9 @@ date | work hours | features worked on
 '20.03.04 | 6 | frontend: tasker visuals, GraphQL functionalities, mutation & subscription helper functions, README update; backend: README update
 '20.03.05 | 7 | frontend: added news funtionality (queries currently, mutations will be added to admin tools), completed tasker GraphQL functionalities & modified visuals, landingpage: added news; backend: added news to API -> testing phase, removeTask-functionality broken!
 '20.03.09 | 7 | frontend: preliminary user management, minor visual modifications on tasker & dishy, partial codebase restructuring to dishy, tasker & admin tools; backend: updated typeDefs, resolvers & models to reflect current state of webapp
+'20.03.10-11 | 12 | frontend: added minor tweaks to news, news adding & removal via admin tools, additional ui-tests; backend: news typeDefs, resolvers, models & tests; backend-tests: Task failing
  | | 
-total | 281 | 
+total | 293 | 
 
 [![Huge credits to FullStack open](https://img.shields.io/badge/MOOC-Uni_Helsinki-1f425f.svg)](https://fullstackopen.com/)
 [![Trusted tool in development](https://img.shields.io/badge/Made%20with-WebStorm-5ee0bd.svg)](https://www.jetbrains.com/webstorm)
