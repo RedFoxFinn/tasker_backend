@@ -100,6 +100,8 @@ date | work hours | features worked on
 '20.03.12-13 | 12 | backend: fixed typedefs & resolvers for group activation/deactivation & user activation/deactivation & added tests for them; frontend: fixed user activation/deactivation + group activation/deactivation => admin tools, additional conditional renderings => admin tools/users & admin tools/groups
  | | 
 total | 305 | 
+ | submission 2020.03.13 |
+ 
 
 [![Huge credits to FullStack open](https://img.shields.io/badge/MOOC-Uni_Helsinki-1f425f.svg)](https://fullstackopen.com/)
 [![Trusted tool in development](https://img.shields.io/badge/Made%20with-WebStorm-5ee0bd.svg)](https://www.jetbrains.com/webstorm)
