@@ -98,11 +98,10 @@ date | work hours | features worked on
 '20.03.09 | 7 | frontend: preliminary user management, minor visual modifications on tasker & dishy, partial codebase restructuring to dishy, tasker & admin tools; backend: updated typeDefs, resolvers & models to reflect current state of webapp
 '20.03.10-11 | 12 | frontend: added minor tweaks to news, news adding & removal via admin tools, additional ui-tests; backend: news typeDefs, resolvers, models & tests; backend-tests: Task failing
 '20.03.12-13 | 12 | backend: fixed typedefs & resolvers for group activation/deactivation & user activation/deactivation & added tests for them; frontend: fixed user activation/deactivation + group activation/deactivation => admin tools, additional conditional renderings => admin tools/users & admin tools/groups
- | | 
-total | 305 | 
- | submission 2020.03.13 |
+ * | * | *
+total | 305 | *
+ * | submission 2020.03.13 | *
  
-
 [![Huge credits to FullStack open](https://img.shields.io/badge/MOOC-Uni_Helsinki-1f425f.svg)](https://fullstackopen.com/)
 [![Trusted tool in development](https://img.shields.io/badge/Made%20with-WebStorm-5ee0bd.svg)](https://www.jetbrains.com/webstorm)
 [![Fun & useful markdown thingy](https://img.shields.io/badge/badges-awesome-orange.svg)](https://shields.io/)
