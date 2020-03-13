@@ -99,7 +99,7 @@ date | work hours | features worked on
 '20.03.10-11 | 12 | frontend: added minor tweaks to news, news adding & removal via admin tools, additional ui-tests; backend: news typeDefs, resolvers, models & tests; backend-tests: Task failing
 '20.03.12-13 | 12 | backend: fixed typedefs & resolvers for group activation/deactivation & user activation/deactivation & added tests for them; frontend: fixed user activation/deactivation + group activation/deactivation => admin tools, additional conditional renderings => admin tools/users & admin tools/groups
  | |
-total | 305 |
+total | 305 |-
 -| submission 2020.03.13 |-
 total | 305 | further development
  
