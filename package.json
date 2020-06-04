@@ -1,0 +1,104 @@
+{
+  "name": "tskrbknd",
+  "version": "0.0.1",
+  "private": true,
+  "engines": {
+    "node": "11.x",
+    "npm": "6.x"
+  },
+  "dependencies": {
+    "apollo-server-express": "^2.9.7",
+    "bcrypt": "^3.0.4",
+    "body-parser": "^1.18.3",
+    "bson": "^4.0.1",
+    "bson-ext": "^2.0.3",
+    "dotenv": "^6.2.0",
+    "express": "^4.17.1",
+    "express-csp-header": "^2.3.2",
+    "express-graphql": "^0.7.1",
+    "graphql": "^14.5.8",
+    "jsonwebtoken": "^8.5.0",
+    "mongodb": "^3.3.3",
+    "mongoose": "^5.8.6",
+    "morgan": "^1.9.1",
+    "node-gyp": "^4.0.0",
+    "subscriptions-transport-ws": "latest"
+  },
+  "scripts": {
+    "start": "NODE_ENV=production node Server.js",
+    "stage": "NODE_ENV=staging PORT=4011 node Server.js",
+    "node": "NODE_ENV=development node Server.js",
+    "test": "npm run lint && npm run jest",
+    "watch": "NODE_ENV=development nodemon Server.js",
+    "watch:test": "NODE_ENV=testing nodemon Server.js",
+    "watch:stage": "NODE_ENV=staging PORT=4011 nodemon Server.js",
+    "lint": "eslint --fix .",
+    "jest": "NODE_ENV=testing jest --collectCoverage --forceExit",
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "main": "Server.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:RedFoxFinn/rff-project.git"
+  },
+  "author": "RedFoxFinn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RedFoxFinn/rff-project/issues"
+  },
+  "homepage": "https://redfoxfinn.github.io/",
+  "devDependencies": {
+    "apollo-client": "^2.6.4",
+    "apollo-utilities": "latest",
+    "axios": "^0.18.1",
+    "babel-jest": "^24.9.0",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.26.2",
+    "cors": "^2.8.5",
+    "easygraphql-tester": "^5.1.6",
+    "eslint": "^6.6.0",
+    "graphql-tag": "latest",
+    "jest": "^24.9.0",
+    "nodemon": "^1.19.4",
+    "ws": "latest",
+    "cypress": "^3.8.2",
+    "eslint-plugin-cypress": "^2.8.1"
+  },
+  "proxy": "http://localhost:4005/",
+  "jest": {
+    "collectCoverage": true,
+    "coverageReporters": [
+      "html",
+      "text",
+      "json"
+    ],
+    "notify": true,
+    "notifyMode": "always",
+    "verbose": true,
+    "testEnvironment": "node",
+    "testPathIgnorePatterns": [
+      "./node_modules/*",
+      "./build"
+    ]
+  },
+  "babel": {
+    "env": {
+      "development": {
+        "plugins": [
+          "transform-es2015-modules-commonjs"
+        ]
+      },
+      "test": {
+        "plugins": [
+          "transform-es2015-modules-commonjs"
+        ]
+      }
+    }
+  }
+}
