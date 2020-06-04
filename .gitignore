@@ -1,2 +1,4 @@
 .directory
 .idea
+coverage
+node_modules
